@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "724688997196",
+    "firebase_url": "https://listafilmes-5b306.firebaseio.com",
+    "project_id": "listafilmes-5b306",
+    "storage_bucket": "listafilmes-5b306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724688997196:android:a2f2ff635ce14662bc9de9",
+        "android_client_info": {
+          "package_name": "br.com.filmes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724688997196-72j72hftebfh71jragivucafgncdfhg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqvNCpOnmmDvEsuhiLDiU-QYnPgBbwwC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724688997196-72j72hftebfh71jragivucafgncdfhg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
